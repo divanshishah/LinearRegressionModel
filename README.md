@@ -1,4 +1,4 @@
-#📊 Linear Regression Training Project: Ecommerce Clients
+📊#Linear Regression Training Project: Ecommerce Clients
 📌 Objective
 This project is a training exercise using synthetic data to apply linear regression for business decision-making. A company wants to determine whether to focus more on their mobile app experience or their website to maximize revenue. We analyze the dataset to provide a data-driven recommendation.
 
